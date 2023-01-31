@@ -3,7 +3,7 @@ This is the backend repository for the react front end ,   ASP .netcore 3.1 vers
 
 Application frontend : https://github.com/NdaAZ/Falcons_employee_mangement_react-app
 
-Website: https://singular-daffodil-ac5f5f.netlify.app/
+Website: https://loquacious-cucurucho-cb7e57.netlify.app/
 
 -------------
 
