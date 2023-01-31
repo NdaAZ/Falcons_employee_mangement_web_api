@@ -13,7 +13,17 @@ Website: https://loquacious-cucurucho-cb7e57.netlify.app/
 - Employee management system can manage and store details of employees like employees personal info and also details of different department of the company and different branches of the organization
 
 
-
+ Group members
+- AA1683 - K.S.Winodahewa
+- AA1679 - E.M.M.S Ekanayaka
+- AA2099 - G.S.K Abeywickrama
+- AA1874 - Nayani Nawarathne
+- AA1897 -  R.M.J.N.Kumari Rajapaksha
+- AA1948 - Aqeel Ahamadh
+- AA1898- S.A.S.A Dissanayake
+- AA2075- Tharushi Umayanga
+- AA1679- Mihisanka Sadudeeptha
+- AA1906 - S.P.N.M.PERERA
 
 -------------
 Technology used :
