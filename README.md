@@ -14,16 +14,7 @@ Website: https://loquacious-cucurucho-cb7e57.netlify.app/
 
 
  Group members  [Team falcon]
-- AA1683 - K.S.Winodahewa
-- AA1679 - E.M.M.S Ekanayaka
-- AA2099 - G.S.K Abeywickrama
-- AA1874 - Nayani Nawarathne
-- AA1897 -  R.M.J.N.Kumari Rajapaksha
-- AA1948 - Aqeel Ahamadh
-- AA1898- S.A.S.A Dissanayake
-- AA2075- Tharushi Umayanga
-- AA1679- AA1822 - M.M.R.Y.M.B Amarathunga
-- AA1906 - S.P.N.M.PERERA
+
 
 -------------
 Technology used :
